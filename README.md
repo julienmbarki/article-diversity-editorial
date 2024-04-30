@@ -28,5 +28,5 @@ git clone https://github.com/article-diversity-editorial.git
 
 ## Data Requests
 
-The data request is done using Spotify's API (see the documentation [here](https://developer.spotify.com/documentation/web-api)) you need to create a developer account to get client_id and client_secret tokens.
+The data request is done using Spotify's API (see the documentation [here](https://developer.spotify.com/documentation/web-api)) you need to create a developer account and a new app ([here](https://developer.spotify.com/dashboard)) to get client_id and client_secret tokens.
 
