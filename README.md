@@ -4,7 +4,7 @@ This project is a research project to determine the diversity of the editorial s
 
 ## Installation
 
-This code is done using Jupyter Notebooks with Python 3.9 and R. You can download both of these languages here [python.org](https://www.python.org/downloads/release/python-3919/) ; [R Cran](https://cran.r-project.org/).
+This code is done using Jupyter Notebooks with Python 3.9 and R. You can download both of these languages here : [python.org](https://www.python.org/downloads/release/python-3919/), [R Cran](https://cran.r-project.org/).
 
 ## Python dependencies
 
@@ -28,5 +28,5 @@ git clone https://github.com/article-diversity-editorial.git
 
 ## Data Requests
 
-The data request
+The data request is done using Spotify's API (see the documentation [here](https://developer.spotify.com/documentation/web-api)) you need to create a developer account to get client_id and client_secret tokens.
 
