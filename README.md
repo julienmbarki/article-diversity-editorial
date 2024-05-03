@@ -1,6 +1,6 @@
 # Article Diversity Editorial
 
-This project is a research project to determine the diversity of the editorial supply on Spotify. A preprint version of the paper is available here: [Metadata_MBARKI.pdf](https://drive.google.com/file/d/17GTNHUWvcrBlrSDQ_HhUpA9ClPL6QtX0/view?usp=sharing)
+This project is a research project to determine the diversity of the editorial supply (human-curated playlists managed by the platform) on Spotify. A preprint version of the paper is available here: [Metadata_MBARKI.pdf](https://drive.google.com/file/d/17GTNHUWvcrBlrSDQ_HhUpA9ClPL6QtX0/view?usp=sharing)
 
 ## Installation
 
